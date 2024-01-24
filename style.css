@@ -1,0 +1,6 @@
+#grad{
+    border: 1px solid red;
+    height: 200px;
+    width: 300px;
+    background-image: radial-gradient( red 5%,yellow 15%,green 50%);
+}
